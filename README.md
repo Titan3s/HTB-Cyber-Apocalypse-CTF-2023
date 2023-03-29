@@ -1,1 +1,1 @@
-"# HTB-Cyber-Apocalypse-CTF-2023" 
+# HTB-Cyber-Apocalypse-CTF-2023
